@@ -34,7 +34,7 @@
     "build": "microbundle --target node --no-compress --format modern,cjs --tsconfig ./tsconfig.compile.json"
   },
   "dependencies": {
-    "seq-logging": "0.5.0",
+    "seq-logging": "1.1.0",
     "tslib": "2.3.0"
   },
   "devDependencies": {
