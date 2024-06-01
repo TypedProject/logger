@@ -82,7 +82,7 @@
     "semantic-release-slack-bot": "^4.0.2",
     "ts-node": "^10.9.2",
     "typescript": "5.4.2",
-    "vite": "5.1.6",
+    "vite": "5.2.12",
     "vite-plugin-dts": "^3.7.3",
     "vue-analytics": "5.22.1",
     "vuepress": "1.9.10",
