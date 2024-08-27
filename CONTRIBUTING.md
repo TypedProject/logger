@@ -32,7 +32,7 @@ TsLogDebug use docsify to convert markdown to HTML. In addition, all documentati
 the Api documentation. To preview your comments on a class you can run this command:
 
 ```
-npm run doc:serve
+npm run docs:serve
 ```
 
 ## Guidelines
